@@ -14,4 +14,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-![ALL OPTION](https://github.com/imranBappy/task-manager/img/Task-Manager-UI.png?raw=true)
+![ALL OPTION](https://github.com/imranBappy/task-manager/blob/master/img/Task-Manager-UI.png?raw=true)
